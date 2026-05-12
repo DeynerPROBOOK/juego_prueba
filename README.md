@@ -68,3 +68,8 @@ git push
 ```
 
 ---
+## 🛠️ Tecnologías usadas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+> 🚧 Proyecto en proceso de desarrollo
